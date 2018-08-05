@@ -20,4 +20,4 @@ const styles = {
     flexDirection: 'row'
   }
 };
-export default CardItem;
+export { CardItem };

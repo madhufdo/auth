@@ -5,7 +5,7 @@ const Header = () => {
   const { textStyle, viewStyle } = styles;
   return (
     <View style={viewStyle}>
-      <Text style={textStyle}>Albums!</Text>
+      <Text style={textStyle}> Authendication </Text>
     </View>
   );
 };
@@ -30,4 +30,4 @@ const styles = StyleSheet.create(
   }
 );
 
-export {Header};
+export { Header };
